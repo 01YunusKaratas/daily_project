@@ -1,0 +1,131 @@
+.navbar{
+    max-height: 400px;
+}
+.nav-link{
+    font-size: 18px;
+    margin: 5px;
+}
+
+
+.banner{
+    background-image: url("/media/sliders.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    z-index: -1;
+    position: relative;
+    height: 100vh;
+    
+}
+#banner-title{
+    font-size: 50px;
+   
+    font-family:'Times New Roman', Times, serif
+}
+.banner-text{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
+.card{
+    max-height: 500px;
+}
+.card-body{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+   
+}
+.card-title{
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+   
+}
+.services{
+   
+    min-height: 600px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    transition: all  ease 1s; 
+    background-color: #AA8453;
+    
+}
+.services img{
+    object-fit: cover;
+}
+
+.card:hover{
+    transform: scale(1.03);
+}
+
+
+.choosed{
+    background-color: #AA8453;
+    background-image: url("/media/arkaplaniçin.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 2;
+    width: 100%;
+    min-height: 400px;
+    position: relative;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: #AA8453 !important;
+}
+.content{
+    position: absolute;
+    
+    width: 600px;
+    right: 25%;
+    
+}
+
+.whyChoosed{
+    background-color:whitesmoke;
+}
+.why {
+    height: 225px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-shadow: rgb(98, 92, 68) 0px 20px 30px -10px !important; 
+    background-color: #212529;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+  }
+  
+.why:hover { 
+    background-color: #AA8453 !important;
+  }
+  
+
+
+.footer{
+    background-color: #212529;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
