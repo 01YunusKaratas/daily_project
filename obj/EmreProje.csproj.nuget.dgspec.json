@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj": {}
+    "C:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj": {}
   },
   "projects": {
-    "c:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj": {
+    "C:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj",
+        "projectUniqueName": "C:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj",
         "projectName": "EmreProje",
-        "projectPath": "c:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj",
+        "projectPath": "C:\\Users\\YUNUS EMRE\\daily_project\\EmreProje.csproj",
         "packagesPath": "C:\\Users\\YUNUS EMRE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\YUNUS EMRE\\daily_project\\obj\\",
+        "outputPath": "C:\\Users\\YUNUS EMRE\\daily_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
