@@ -17,45 +17,97 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmreProje
 build_property.RootNamespace = EmreProje
-build_property.ProjectDir = c:\Users\YUNUS EMRE\daily_project\
+build_property.ProjectDir = C:\Users\YUNUS EMRE\daily_project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\YUNUS EMRE\daily_project
+build_property.MSBuildProjectDirectory = C:\Users\YUNUS EMRE\daily_project
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/Home/allAdvert.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Admin/CreateAdvert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcQWRtaW5cQ3JlYXRlQWR2ZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Home/AllDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcSG9tZVxBbGxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YUNUS EMRE/daily_project/Views/Home/allAdvert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhbGxBZHZlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/Home/contact.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/Views/Home/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/Home/Index.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/Shared/Error.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/_ViewImports.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/_ViewStart.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/YUNUS EMRE/daily_project/Views/Shared/_Layout.cshtml]
+[C:/Users/YUNUS EMRE/daily_project/AdvertWebsite/emregayrımenkul/emregayrımenkul/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWR2ZXJ0V2Vic2l0ZVxlbXJlZ2F5csSxbWVua3VsXGVtcmVnYXlyxLFtZW5rdWxcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7jvht2clmo
+
+[C:/Users/YUNUS EMRE/daily_project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9n1osvhv68

@@ -1,0 +1,76 @@
+﻿@model ICollection<emregayrımenkul.Models.Advert>;
+
+@{
+    Layout = "_Layout2";
+}
+
+
+    <button class="btn btn-dark d-md-none m-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSidebar">
+        ☰ Menü
+    </button>
+
+    <div class="offcanvas offcanvas-start text-white bg-dark"  id="offcanvasSidebar">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title">Admin Paneli</h5>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+        </div>
+        <div class="offcanvas-body">
+            <a class="sidebar-a" asp-controller="Admin" asp-action="CreateAdvert">İlan Ekle</a>
+            <a class="sidebar-a" asp-controller="Admin" asp-action="Dashboard">İlanları Gör</a>
+            <a class="sidebar-a" href="#">Admin</a>
+            <a class="sidebar-a logout" href="#">Çıkış</a>
+        </div> 
+    </div>
+
+    <div class="sidebar d-none d-md-flex">
+        <h3 class="text-light text-center">Admin Panel</h3>
+        <a class="sidebar-a" asp-controller="Admin" asp-action="CreateAdvert">İlan Ekle</a>
+        <a class="sidebar-a" asp-controller="Admin" asp-action="Dashboard">İlanları Gör</a>
+        <a class="sidebar-a" href="#">Admin</a>
+        <a class="sidebar-a" id="logout" href="#">Çıkış</a>
+
+    </div>
+
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="table-container">
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Başlık</th>
+                                        <th>Açıklama</th>
+                                        <th>Fiyat</th>
+                                        <th>Resim</th>
+                                        <th>İşlemler</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                        @{
+                                            foreach(var item in Model){
+                                                <tr>
+                                                    <td>@item.Id</td>
+                                                    <td>@item.AdvertTitle</td>
+                                                    <td>@item.Explain</td>
+                                                    <td>@item.UrlImage</td>
+                                                    <td>@item.Cost</td>
+
+                                                    
+                                                    
+                                                </tr>
+                                            }
+                                        }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+   
