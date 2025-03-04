@@ -1,2 +1,3 @@
 # daily_project
-daily project
+daily project 
+Günlük yapılan karışık kodlar topluluğu.
